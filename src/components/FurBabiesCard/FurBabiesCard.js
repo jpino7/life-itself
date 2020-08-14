@@ -1,10 +1,10 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card'
-import '../../styles/ContactCard.css'
+import '../../styles/FurBabiesCard.css'
 
 
 
-function ContactCard() {
+function FurBabiesCard() {
     return (
         <Card.Body>
                 <div className="row">
@@ -59,4 +59,4 @@ function ContactCard() {
     )
 }
 
-export default ContactCard;
+export default FurBabiesCard;
