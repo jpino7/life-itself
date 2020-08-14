@@ -4,7 +4,7 @@ import About from './pages/Home';
 import Gardening from './pages/Gardening';
 import Travel from './pages/Travel';
 import Recipes from "./pages/Recipes";
-import HomeImprovement from "./pages/HomeImprovement";
+import DIYProjects from "./pages/DIYProjects";
 import Blog from "./pages/Blog";
 import FurBabies from "./pages/FurBabies";
 import Nav from './components/Nav/Nav';
@@ -25,7 +25,7 @@ function App() {
             <Route exact path="/blog" component={Blog} />
             <Route exact path="/furbabies" component={FurBabies} />
             <Route exact path="/recipes" component={Recipes} />
-            <Route exact path="/homeimprovement" component={HomeImprovement} />
+            <Route exact path="/diyprojects" component={DIYProjects} />
           </Switch>
           <Footer />
         </div>
