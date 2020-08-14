@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import PortfolioCard from '../components/PortfolioCard/PortfolioCard';
+import TravelCard from '../components/TravelCard/TravelCard';
 
-class Portfolio extends Component {
+class Travel extends Component {
     render() {
         return (
-            <PortfolioCard />
+            <TravelCard />
         )
     }
 }
 
-export default Portfolio;
+export default Travel;

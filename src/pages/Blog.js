@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import ContactCard from '../components/ContactCard/ContactCard';
+import BlogCard from '../components/BlogCard/BlogCard';
 
-class Contact extends Component {
+class Blog extends Component {
     render() {
         return (
-            <ContactCard />
+            <BlogCard />
         )
     }
 }
 
-export default Contact;
+export default Blog;

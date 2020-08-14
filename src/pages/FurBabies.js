@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import ContactCard from '../components/ContactCard/ContactCard';
+import FurBabiesCard from '../components/FurBabiesCard/FurBabiesCard';
 
-class Contact extends Component {
+class FurBabies extends Component {
     render() {
         return (
-            <ContactCard />
+            <FurBabiesCard />
         )
     }
 }
 
-export default Contact;
+export default FurBabies;

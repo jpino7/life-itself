@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import PortfolioCard from '../components/PortfolioCard/PortfolioCard';
+import GardeningCard from '../components/GardeningCard/GardeningCard';
 
-class Portfolio extends Component {
+class Gardening extends Component {
     render() {
         return (
-            <PortfolioCard />
+            <GardeningCard />
         )
     }
 }
 
-export default Portfolio;
+export default Gardening;
