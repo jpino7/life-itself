@@ -30,6 +30,9 @@ function Navbar() {
                     <Nav.Item>
                         <Link to="/gardening" className={window.location.pathname === "/Gardening" ? "nav-link" : "nav-link"}>Gardening</Link>
                     </Nav.Item>
+                    <Nav.Item>
+                        <Link to="/homeimprovement" className={window.location.pathname === "/HomeImprovement" ? "nav-link" : "nav-link"}>Home Improvement</Link>
+                    </Nav.Item>
                 </Nav>
             </nav>
         </>

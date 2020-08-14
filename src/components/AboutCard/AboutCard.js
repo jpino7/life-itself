@@ -11,8 +11,10 @@ function AboutCard() {
                 <h3 className="aboutHeader">About Us</h3>
                 <img className="usImage" src={Pic} alt="Us" />
                 <section className="text">
+                    First and foremost I want to thank you for visiting our page.
+                    My name is Joanna and my husband is Cisco. We like to live life to the fullest!
                     This is Us!
-                        </section>
+                </section>
 
                 <div className="row mt-4">
                     <div className="card mx-auto">
