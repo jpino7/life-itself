@@ -13,7 +13,7 @@ function AboutCard() {
                 <section className="text">
                     First and foremost I want to thank you for visiting our blog.
                     My name is Joanna and my husband is Cisco. We like to live life to the fullest!
-                    Here you will find what we enjoy most such as: traveling, cooking, home life, gardening, & improving the look of our home.
+                    Here you will find what we enjoy most such as: traveling, cooking, home life, gardening, & doing DIY projects within our home.
                     This is Us!
                 </section>
 
