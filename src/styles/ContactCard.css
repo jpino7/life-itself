@@ -1,0 +1,40 @@
+.card {
+    background-color:#FFB7C5;
+    color: white;
+    opacity: 0.9;
+    border-radius: 1em;
+  }
+  
+  /* .card-body{
+    font-weight: bold;
+  } */
+  .row {
+    /* margin-top: 10px; */
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  h4 {
+    text-decoration-line: overline;
+    margin-top: 10px;
+  }
+
+.fa-linkedin, .fa-github {
+    color: white;
+    font-size: x-large;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+.fa-envelope {
+  margin-right: 10px;
+}
+
+p {
+  font-weight: lighter;
+}
+
+.blockquote-footer, .Source {
+  color: white;
+}

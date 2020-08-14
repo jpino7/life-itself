@@ -1,0 +1,28 @@
+.aboutMe {
+    background-color: #D6EEDC !important;
+    color: #61A271 !important;
+    opacity: 0.9;
+}
+
+.aboutHeader {
+  text-align: center;
+}
+
+.card {
+  background-color: #FFB7C5;
+}
+
+.card-body{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: none;
+}
+
+.name {
+  font-family: 'Sacramento', cursive;
+  font-size: 35px;
+}
+
+ul {
+    list-style-type: circle;
+}
